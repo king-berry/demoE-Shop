@@ -1,0 +1,606 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Clothe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|c:\\users\\asus\\source\\repos\\clothe\\clothe\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|c:\\users\\asus\\source\\repos\\clothe\\clothe\\views\\feedbacks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\feedbacks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\shared\\_layoutad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\shared\\_layoutad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\products\\indexuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\products\\indexuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\feedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\feedbacks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\products\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\products\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\products\\detailsuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\products\\detailsuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\wwwroot\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\wwwroot\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\clothe\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:clothe\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Migrations\\20240227131807_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2B413F0-2AC5-46D0-AB8B-9F237D093E81}|Clothe\\Clothe.csproj|solutionrelative:Clothe\\Migrations\\20240227131807_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Feedbacks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Feedbacks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Feedbacks\\Edit.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Feedbacks\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T04:53:47.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Program.cs",
+              "RelativeDocumentMoniker": "Clothe\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Program.cs",
+              "RelativeToolTip": "Clothe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:18:26.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T11:34:32.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T13:02:27.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T13:27:24.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Clothe\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "Clothe\\Controllers\\ProductsController.cs*",
+              "ViewState": "AQIAALAAAAAAAAAAAAAAwKwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:13:42.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutAd.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Shared\\_LayoutAd.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Shared\\_LayoutAd.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Shared\\_LayoutAd.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Shared\\_LayoutAd.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T11:37:49.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T13:27:38.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T13:27:42.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T15:49:18.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T13:15:32.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T13:27:20.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T13:34:12.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T13:27:46.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T12:25:36.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IndexUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\IndexUser.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Products\\IndexUser.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\IndexUser.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Products\\IndexUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T12:05:40.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Clothe\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-04T00:39:41.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANwCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T11:37:19.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Clothe\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Clothe\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAswA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:12:37.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Feedbacks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Feedbacks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Feedbacks\\Index.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Feedbacks\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T16:13:41.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Clothe\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Clothe\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:29:33.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "Clothe\\Controllers\\FeedbacksController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "Clothe\\Controllers\\FeedbacksController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAswAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:15:16.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "products.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\products.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Products\\products.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\products.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Products\\products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T12:54:38.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DetailsUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\DetailsUser.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Products\\DetailsUser.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Products\\DetailsUser.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Products\\DetailsUser.cshtml",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAACkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T12:22:40.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Clothe\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Clothe\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-03T10:57:43.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T11:34:18.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "font-awesome.min.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\wwwroot\\css\\font-awesome.min.css",
+              "RelativeDocumentMoniker": "Clothe\\wwwroot\\css\\font-awesome.min.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\wwwroot\\css\\font-awesome.min.css",
+              "RelativeToolTip": "Clothe\\wwwroot\\css\\font-awesome.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-03T11:49:50.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T13:15:42.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Home\\admin.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Home\\admin.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Home\\admin.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Home\\admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T11:35:13.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T11:46:57.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Clothe\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Clothe\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T11:37:17.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Clothe\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Clothe\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAArwGQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:14:47.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Clothe\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Models\\User.cs",
+              "RelativeToolTip": "Clothe\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:07:35.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240227131807_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Migrations\\20240227131807_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Clothe\\Migrations\\20240227131807_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Migrations\\20240227131807_InitialCreate.cs",
+              "RelativeToolTip": "Clothe\\Migrations\\20240227131807_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:18:07.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Clothe\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Models\\Feedback.cs",
+              "RelativeToolTip": "Clothe\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:08:20.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Clothe\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Clothe\\Clothe\\Models\\Order.cs",
+              "RelativeToolTip": "Clothe\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:08:02.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

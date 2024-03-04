@@ -1,0 +1,114 @@
+﻿@{
+    ViewData["Title"] = "Admin";
+    Layout = "~/Views/Shared/_LayoutAd.cshtml";
+}
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        .dashboard {
+            background-color: #a2a2a2;
+            min-height: 100vh;
+            padding: 20px 30px;
+        }
+
+            .dashboard .list {
+                width: 100%;
+                display: grid;
+                grid-template-columns: 20% 20% 20% 20%;
+                gap: 20px;
+            }
+
+                .dashboard .list .statictis {
+                    background-color: white;
+                    border-radius: 4px;
+                    border-bottom: 2px solid #fa8282;
+                    padding: 10px;
+                }
+
+                    .dashboard .list .statictis .content {
+                        height: 40px;
+                        width: 100%;
+                        display: flex;
+                        justify-content: space-between;
+                    }
+
+                        .dashboard .list .statictis .content p {
+                            font-size: 30px;
+                            font-weight: bold;
+                        }
+
+                        .dashboard .list .statictis .content i {
+                            font-size: 30px;
+                            color: red;
+                        }
+
+            .dashboard .chart {
+                margin-top: 30px;
+                width: 100%;
+                height: 700px;
+                padding: 20px;
+                background-color: white;
+                border-radius: 12px;
+            }
+    </style>
+</head>
+
+<div class="dashboard">
+    <h2>Dashboard</h2>
+    <div class="list">
+        <div class="statictis">
+            <h3>Đăng ký mới</h3>
+            <div class="content">
+                <p>26</p>
+                <i class="fa-solid fa-chart-line"></i>
+            </div>
+        </div>
+        <div class="statictis">
+            <h3>Đơn hàng mới</h3>
+            <div class="content">
+                <p>26</p>
+                <i class="fa-solid fa-chart-line"></i>
+            </div>
+        </div>
+        <div class="statictis">
+            <h3>Tổng doanh thu</h3>
+            <div class="content">
+                <p>26VNĐ</p>
+                <i class="fa-solid fa-chart-line"></i>
+            </div>
+        </div>
+    </div>
+
+    <div class="chart">
+        <canvas id="myChart"></canvas>
+    </div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+    const ctx = document.getElementById('myChart');
+
+    new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['5 month ago', '4 month ago', '3 month ago', '2 month ago', 'Last month', 'This month'],
+            datasets: [{
+                label: '# of Orders',
+                data: [12, 19, 3, 5, 2, 3],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
+
+
